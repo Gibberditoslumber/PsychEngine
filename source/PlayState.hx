@@ -1350,7 +1350,7 @@ class PlayState extends MusicBeatState
 			FlxG.log.warn('Couldnt find video file: ' + fileName);
 			startAndEnd();
 		}
-		#end
+		
 	}
 
 	function startAndEnd()
